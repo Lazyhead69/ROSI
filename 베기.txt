@@ -1,0 +1,15 @@
+jeongmyeon begi,정면베기
+jwau begi, 좌우베기
+samdan begi,삼단베기
+hoengdan begi,횡단베기
+gwang-ja begi,광자베기
+dae-do se, 대도세
+keum-gye se,금계세
+ja-yeon se,자연세
+yi-yeon begi,의연베기
+so-do se,소도세
+jo-cheon se,조천세
+ji-ha se,지하세
+
+
+지하세 해동검도
