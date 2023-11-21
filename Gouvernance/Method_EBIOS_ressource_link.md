@@ -1,8 +1,20 @@
-# **Method EBIOS ressource link**
+# **Ressource Links**
 
 ### LINK
-- https://club-ebios.org/site/productions/
-- https://cyber.gouv.fr/la-methode-ebios-risk-manager
+- [https://club-ebios.org/site/productions/] : https://club-ebios.org/site/productions/
+- [https://cyber.gouv.fr/la-methode-ebios-risk-manager] : https://cyber.gouv.fr/la-methode-ebios-risk-manager
+- 
+
+### ISO 27001 
+- [270001/Lead_Auditor_27k1_1.pdf] : Lead_Auditor_27k1_1.pdf
+- [270001/Lead_Auditor_27k1_2.pdf] : Lead_Auditor_27k1_2.pdf
+- [270001/Lead_Auditor_27k1_3.pdf] : Lead_Auditor_27k1_3.pdf
+- [270001/Lead_Auditor_27k1_4.pdf] : Lead_Auditor_27k1_4.pdf
+- [27001/Carte_mentale_iso-27001-2022.jpg] : Carte_mentale_iso-27001-2022.jpg
+
+
+
+
 
 
 
