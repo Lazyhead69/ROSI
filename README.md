@@ -45,8 +45,6 @@
          - [ISO27k_ISMS_A8.20_skeleton_policy_on_networks_security_2023.md](Gouvernance/Outil/ISO27k_ISMS_A8.20_skeleton_policy_on_networks_security_2023.md)
          - [ISO27k_ISMS_A8.32_skeleton_policy_on_change_management_2023.md](Gouvernance/Outil/ISO27k_ISMS_A8.32_skeleton_policy_on_change_management_2023.md)
          - [ISO27k_ISMS_documentation_mind_map.jpg](Gouvernance/Outil/ISO27k_ISMS_documentation_mind_map.jpg)
-         - [ISO27k_SGSI_6.1_SoA_2022_Espa�ol_Rev03_2022.xlsx](Gouvernance/Outil/ISO27k_SGSI_6.1_SoA_2022_Espa�ol_Rev03_2022.xlsx)
-         - [ISO27k_SGSI_6.1_SoA_2022_Portugues_Rev01_2022.xlsx](Gouvernance/Outil/ISO27k_SGSI_6.1_SoA_2022_Portugues_Rev01_2022.xlsx)
       + 27001
          - [Carte_mentale_iso-27001-2022.jpg](Gouvernance/27001/Carte_mentale_iso-27001-2022.jpg)
          - [Lead_Auditor_27k1_1.pdf](Gouvernance/27001/Lead_Auditor_27k1_1.pdf)
@@ -55,8 +53,8 @@
          - [Lead_Auditor_27k1_4.pdf](Gouvernance/27001/Lead_Auditor_27k1_4.pdf)
          + SMSI
             - [Anonymized-ISO-27001-Assessment-Report.pdf](Gouvernance/27001/SMSI/Anonymized-ISO-27001-Assessment-Report.pdf)
-            - [FREE SecAware ISMS Orbit template audit & review scope, objectives & plan.pdf](Gouvernance/27001/SMSI/FREE SecAware ISMS Orbit template audit & review scope, objectives & plan.pdf)
-            - [FREE SecAware ISMS template policy on patching software.pdf](Gouvernance/27001/SMSI/FREE SecAware ISMS template policy on patching software.pdf)
+            - [ISMS_Orbit_template_audit_review_scope_objectives_plan.pdf](Gouvernance/27001/SMSI/ISMS_Orbit_template_audit_review_scope_objectives_plan.pdf)
+            - [ISMS_template_policy_on_patching_software.pdf](Gouvernance/27001/SMSI/ISMS_template_policy_on_patching_software.pdf)
             - [grille_autodiagnostic_ISO_27001_VF.xlsx](Gouvernance/27001/SMSI/grille_autodiagnostic_ISO_27001_VF.xlsx)
          - [correspondance_certification_NIST800-53_vs_ISO27k.pdf](Gouvernance/27001/correspondance_certification_NIST800-53_vs_ISO27k.pdf)
       + 27005
@@ -80,8 +78,8 @@
          - [pssie_anssi.pdf](Gouvernance/Orga/pssie_anssi.pdf)
       + audit
          - [Jbourgeois-cours-audit.pdf](Gouvernance/audit/Jbourgeois-cours-audit.pdf)
-         - [SecAware pragmatic ChatGPT security guideline.pdf](Gouvernance/audit/SecAware pragmatic ChatGPT security guideline.pdf)
-         - [SecAware pro services infosec guideline 2023.pdf](Gouvernance/audit/SecAware pro services infosec guideline 2023.pdf)
+         - [ChatGPT_security_guideline.pdf](Gouvernance/audit/ChatGPT_security_guideline.pdf)
+         - [Services_infosec_guideline_2023.pdf](Gouvernance/audit/Services_infosec_guideline_2023.pdf)
    + Python
       - [folder2md.py](Python/folder2md.py)
       - [replace_spaceBy_.py](Python/replace_spaceBy_.py)
